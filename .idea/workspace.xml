@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12af1a20-09c8-478d-aff8-0a2927447ff6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AI/RADL-LACuong.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI/RADL-LHPhuong.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI/RADL-TQKhoat.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI/RADL-TTAnh.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI/RADL-TTTruyen.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI/RADL-TTho.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI/RADL2023_TQLONG.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES problem set/weird_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day31.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day31.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/DailyChallenges/Day9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/FortnightChallenges/Fortnight1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/FortnightChallenges/Fortnight2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/SpecialChallenges/SpecialChallenge1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenges/WeeklyChallenges/Week3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Giấy tờ/Passport.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hộ chiếu mới_page-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nicepage.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDF-Central.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Profile 1 - Brave.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot (232).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Warframe.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work - Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoom.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment1/bandicam 2023-09-21 21-47-27-225.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment1/stage1.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment1/stage2.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment1/stage3.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment1/stage4.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment2/stage1.asm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment2/stage2.asm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/assignment2/stage3.asm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/lecture_project.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week1/Week_1_Content (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week10/lab10-cos10004-100-accurate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week10/lab10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week2/Week_2_Content_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Screenshot (120).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Screenshot (122).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Screenshot (124).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/1BIT_COUNTER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/2BIT_COUNTER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/4BIT_RIPPLE_COUNTER_FALLING_EDGE.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/4BIT_RIPPLE_COUNTER_RISING_EDGE.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/6LIMITED_COUNTER_RISING_EDGE.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/8BIT_REGISTER.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/8BIT_REGISTER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/D_FLIP_FLOP_FULL.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/D_FLIP_FLOP_FULL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/MOD_6_COUNTER_RISING_EDGE.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/MOD_6_COUNTER_RISING_EDGE_STAGE_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/MOD_6_COUNTER_RISING_EDGE_STAGE_1_SOLVED.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/RIPPLE_COUNTER_L_AND_B_ENDIAN.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week 3 Content 9ad4d7ac8f464c50b4b95eb0b2c34045/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/Week_3_Content_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week3/doc.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/368509936_664405268961930_7542666004935615978_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/371503319_1107716130205675_9132020549820778103_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/counter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/learn_counter.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/project1.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/project2.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/project3.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/project4.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week4/project5.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/Screenshot (150).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/Screenshot (151).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/Screenshot (155).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/mem.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/memory.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/project1.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week5/project2.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week6/myprog (7).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week6/myprog (8).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week7/lab7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week7/myprog (10).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week7/myprog (8).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week7/myprog (9).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week8/lab8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week8/myprog (10).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week8/myprog (11).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week8/myprog (12).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week8/myprog (8).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week8/myprog (9).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10004/week9/Lab9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Arrays/Exercise+Skeleton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Arrays/Exercise+Solution (5)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Arrays/Exercise+Solution (6)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Arrays/Histogram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Basics/Chatbot1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Basics/Chatbot2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Getting started/Exercise+Solution" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Hashes/Exercise+Solution (8)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Hashes/Hashes1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Hashes/Hashes2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Inheritance/Project+2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Loops &amp; ranges/Exercise+Solution (7)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Loops &amp; ranges/Ranges1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Loops &amp; ranges/Ranges2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Loops &amp; ranges/Ranges3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Loops &amp; ranges/Ranges4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Math/Exercise+Solution (2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Math/Exercise+Solution (3)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Math/Exercise+Solution (4)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Methods/Exercise+Solution (1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Objects/Exercise+Solution" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Objects/Exercise+Solution (1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Objects/Exercise+Solution (2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Objects/Exercise+Solution (3)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Objects/Exercise+Solution (4)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/String/Strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Symbols/Exercise+Solution (9)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Time/Clock1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Time/Clock2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Time/Clock3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Time/Exercise+Solution (5)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnruby/Time/Exercise+Solution (6)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/.idea/modules/.ruby-lsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/.idea/music player.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/custom.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music player/gui_music_player.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solitaire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/Credit Task 6.3 - Custom Program Design (2).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/Tutorial Task - Hand execution - Array Search.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/Tutorial Task - Hand execution - Arrays.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/Tutorial Task 1.2 - Answers V2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/dd.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/mydata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/trial.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/week1.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/week2.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/week3.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/week4.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swin/week5.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/Assessment Criteria for Group Work.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/Group_Agreement_Template-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/apply.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/enhancements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/adrien.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/broadband.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/button_after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/button_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/button_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/button_hover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/graphic_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/group_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/hizqeel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/index_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/ins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/linkedln.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/logo_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/media_query.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/minh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/nbn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/shane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/transition_after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/transition_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/images/underline_transition.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/jobs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign1/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/apply.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/doc/Assessment Criteria for Group Work.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/doc/Group_Agreement_Template-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/doc/individual report part 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/enhancements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/footer.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/header.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/adrien.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/broadband.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/button_after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/button_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/button_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/button_hover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/graphic_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/group_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/hizqeel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/index_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/ins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/linkedln.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/logo_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/media_query.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/minh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/nbn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/shane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/transition_after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/transition_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/images/underline_transition.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/jobs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/manage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/menu.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/processEOI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/assign2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/individual report final.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab02/Screenshot (60).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab04/Screenshot (81).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab04/Screenshot (82).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab04/Screenshot (83).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (134).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (135).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (136).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (137).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (138).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (139).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (140).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (141).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (142).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/Screenshot (143).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/images/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/images/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/images/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/images/mycat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/images/mycat_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/lab05task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/lab05task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/styles/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/styles/images/fade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/styles/lab05.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/styles/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab05/styles/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab07/factorial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab08/Screenshot (247).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab08/Screenshot (248).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab08/Screenshot (249).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab08/Screenshot (250).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab08/Screenshot (251).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab08/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab09/Instruction 09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab09/s104309099_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab10/cars_search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab10/searchcar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c10026/lab10/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator.circ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discord_backup_codes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../staff_resume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../staff_resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/Group Assignment 1 - Group Lab Activity 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/IP Fragmentation and VLSM.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/arp_scenarios.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/group_lab_activity.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/pj1.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/pj2.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/pj4.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/project2.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/project3.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/project6.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/sample_mid_skill_exam_A.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/lab_excercises/sample_mid_skill_exam_B.pkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Transport layer/11a - Transport Layer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Transport layer/11b - Transport Layer - UDP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Transport layer/12a - Transport Layer - TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Transport layer/12b - TCP Flow Control.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Wireless network/09b - Wireless Concepts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Wireless network/09c - Wireless Networks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/revision/Wireless network/09d - Wireless Security.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/Screenshot (234).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/Screenshot (235).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/Screenshot (236).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/Screenshot (237).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/Screenshot (238).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/Screenshot (239).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab1/Screenshot (109).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab1/Screenshot (110).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (111).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (112).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (113).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (114).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (115).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (116).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (117).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab2/Screenshot (118).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (100).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (101).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (102).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (103).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (104).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (105).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (107).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab3/Screenshot (108).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (189).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (190).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (191).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (192).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (193).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (194).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (195).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (196).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab4/Screenshot (197).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab5/Screenshot (198).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab5/Screenshot (199).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab5/Screenshot (200).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab5/Screenshot (201).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab5/Screenshot (202).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tne10006/tutorial/lab5/Screenshot (203).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../z4657858891868_94d3162aa6cc3d2aa30056c3fcf5c18b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discord.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Discord.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Giấy tờ/Hộ chiếu mới.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammarly.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammarly.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hộ chiếu mới_page-0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microsoft Edge.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10004/week2/project3.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../c10004/week2/project3.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10004/week3/Doc1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10004/week3/project1.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../c10004/week3/project1.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10004/week3/project2.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../c10004/week3/project2.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10004/week3/project3.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../c10004/week3/project3.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/c10009.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/c10009.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial Task - Hand execution - Arrays.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial Task 1.2 - Answers V2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab03/helpdesk.html" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab03/helpdesk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab04/lab04.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab04/lab04.html" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab04/lab04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab04/styles/lab04.css" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab04/styles/lab04.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/dl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/images/image1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/images/image2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/images/image3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/images/mycat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/images/mycat_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/lab05task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/lab05task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/styles/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab05/lab05-2/styles/images/fade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab06/daysarray.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab06/daysarray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab06/myfirst.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab06/myfirst.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab07/factorial.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab07/factorial.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab07/factorial.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab07/factorial_with_get.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab07/factorial_with_get.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab07/mathfunctions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab07/mathfunctions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab08/lab08-1/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab08/processbooking.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab08/processbooking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab10/addcar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab10/addcar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab10/cars_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab10/cars_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab10/cars_display.php" beforeDir="false" afterPath="$PROJECT_DIR$/../c10026/lab10/cars_display.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab10/sample_settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c10026/lab10/setting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tne10006/lab01/pj1.pkt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="89d6iijd" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2TrISJSlLpimhbXjNIzmjvcvgMd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/c10009&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\OneDrive\Máy tính\c10009" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12af1a20-09c8-478d-aff8-0a2927447ff6" name="Changes" comment="" />
+      <created>1691794772197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691794772197</updated>
+      <workItem from="1691794773154" duration="25000" />
+      <workItem from="1691794814022" duration="8000" />
+      <workItem from="1698285317674" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
